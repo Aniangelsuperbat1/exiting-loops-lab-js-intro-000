@@ -3,5 +3,5 @@ let breakOut = (array, changeValue, stopValue) =>{
     array[i] = changeValue
   } if (array[i] === stopValue){
     break
-  } 
+  }
 } return array
