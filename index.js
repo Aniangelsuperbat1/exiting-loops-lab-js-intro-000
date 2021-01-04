@@ -7,3 +7,15 @@ let breakOut = (array, changeValue, stopValue) =>{
   }
 } return array
 }
+
+let keepGoing = (array, changeValue, stopValue) => {
+  for (let i = 0; i < array.length; i++){
+    if (array[i] === stopValue){
+      continue
+  } else{
+    array[i] = changeValue
+  }
+} return array
+}
+
+}
