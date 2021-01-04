@@ -7,4 +7,3 @@ let breakOut = (array, changeValue, stopValue) =>{
   }
 } return array
 }
- 
