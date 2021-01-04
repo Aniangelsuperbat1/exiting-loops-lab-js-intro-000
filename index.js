@@ -17,5 +17,3 @@ let keepGoing = (array, changeValue, stopValue) => {
   }
 } return array
 }
-
-}
