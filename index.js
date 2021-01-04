@@ -5,3 +5,4 @@ let breakOut = (array, changeValue, stopValue) =>{
     break
   }
 } return array
+}
